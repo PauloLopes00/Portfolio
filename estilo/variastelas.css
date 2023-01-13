@@ -31,4 +31,78 @@
     li{
         margin-top: 5px;
     }
+
+}
+
+@media screen and (min-width: 900px) {
+    nav{
+        justify-content: space-between;
+    }
+    h1{
+        display: block;
+        text-align: left;
+        font-size: 2em;
+    }
+    #burguer{
+        display: none;
+    }
+    menu{
+        display: block;
+    }
+
+    nav, menu > ul {
+        display: flex;
+        flex-direction: row;
+    }
+
+    menu > ul > li > a{ 
+       width: 80px;
+       background-color: rgb(59, 57, 57);
+       border: none;
+       transition-duration: 1s;
+    }
+
+    li{
+        margin-top: 5px;
+    }
+
+    h3{
+        text-align: center;
+    }
+
+    #center{
+        display: flex;
+    }
+
+    .projetos{
+        display: inline-block;
+        margin: auto;
+    }
+
+    #images{
+        display:block;
+        margin-left: 35px;
+        padding: 20px 0px;
+        width: 211px;
+    }
+    /*.img{
+        margin-left: 160px;
+    }
+
+    .p{
+        margin-left: 170px;
+    }
+
+    .projetos > ul > li{
+        margin: 0px 200px;
+        margin-bottom: 7px ;
+    }
+
+
+    
+    div.link{
+        margin-left: 200px;        
+        width: 120px;
+    } */
+    
 }

@@ -131,6 +131,11 @@ a.linkproj:hover{
     color: blue;
 }
 
+h4{
+    text-align: center;
+    margin: 10px;
+    color: rgb(189, 177, 177);
+}
 
 div#contato{
     text-align: center;
