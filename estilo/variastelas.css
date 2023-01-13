@@ -87,24 +87,21 @@
         padding: 20px 0px;
         width: 211px;
     }
-    /*.img{
-        margin-left: 160px;
-    }
 
     .p{
-        margin-left: 170px;
+        text-align: center;
     }
 
     .projetos > ul > li{
-        margin: 0px 200px;
+        margin: 0px 90px;
         margin-bottom: 7px ;
     }
 
 
     
     div.link{
-        margin-left: 200px;        
+        margin: 10px 80px;       
         width: 120px;
-    } */
+    } 
     
 }
