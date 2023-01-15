@@ -22,14 +22,14 @@
     }
 
     menu > ul > li > a{ 
-       width: 100px;
+       width: 90px;
        background-color: rgb(59, 57, 57);
        border: none;
        transition-duration: 1s;
     }
 
     li{
-        padding-left: 10px;
+        padding-left: 20px;
         margin-top: 5px;
     }
 
