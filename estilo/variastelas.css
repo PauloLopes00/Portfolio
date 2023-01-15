@@ -22,7 +22,7 @@
     }
 
     menu > ul > li > a{ 
-       width: 80px;
+       width: 100px;
        background-color: rgb(59, 57, 57);
        border: none;
        transition-duration: 1s;
